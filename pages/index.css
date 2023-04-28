@@ -1,5 +1,3 @@
-@import "../blocks/styles/style.css";
-@import "../blocks/styles/margins.css";
 @import "../blocks/container/container.css";
 @import "../blocks/header/header.css";
 @import "../blocks/burger/burger.css";
@@ -16,7 +14,6 @@
 @import "../blocks/html/html.css";
 @import "../blocks/body/body.css";
 @import "../blocks/elements/elements.css";
-@import "../blocks/span/span.css";
 
 @import "../variables/variables.css";
 @import "../vendor/reset.css";

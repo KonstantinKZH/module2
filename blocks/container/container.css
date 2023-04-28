@@ -11,7 +11,7 @@
     }
 }
 
-@media (max-width: 730px){
+@media (max-width: 767px){
     .container{
         margin: 0 auto;
         width: 100%;

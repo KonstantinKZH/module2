@@ -139,7 +139,7 @@
     }
 
     .contacts-wrapper{
-        column-gap: 114px;
+        column-gap: 45px;
     }
 
     .contacts-telephone{
@@ -153,12 +153,12 @@
     .contacts-link{
         width: 100%;
         height: 60px;
-        font-size: 60px;
+        font-size: 45px;
         line-height: 60px;
     }
 }
 
-@media (max-width: 730px){
+@media (max-width: 767px){
     .contacts-container{
         padding-left: 11px;
         width: 100%;

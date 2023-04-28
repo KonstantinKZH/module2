@@ -145,7 +145,7 @@
     }
 }
 
-@media (max-width: 730px){
+@media (max-width: 767px){
     .popup__content{
         width: 361px;
         margin-left: 7px;

@@ -41,9 +41,10 @@
     color: white;
 }
 
-@media (max-width: 730px){
+@media (max-width: 767px){
     .nav{
         column-gap: 30px;
+        margin-bottom: 41px;
     }
 
     .nav__link{
