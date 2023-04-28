@@ -1,0 +1,26 @@
+body, button{
+    font-family: 'Manrope', sans-serif;
+}
+
+.glyph-arrow{
+    font-family: 'Manrope', sans-serif;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    color: var(--black-121212);
+}
+
+h2{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: var(--black-121212);
+}
+
+/* Заголовок секции - услуги */
+.services__header{
+    color: var(--white);
+}

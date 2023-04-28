@@ -1,0 +1,23 @@
+@import "../blocks/styles/style.css";
+@import "../blocks/styles/margins.css";
+@import "../blocks/container/container.css";
+@import "../blocks/header/header.css";
+@import "../blocks/burger/burger.css";
+@import "../blocks/basic/basic.css";
+@import "../blocks/about/about.css";
+@import "../blocks/projects/projects.css";
+@import "../blocks/services/services.css";
+@import "../blocks/popup/popup.css";
+@import "../blocks/reviews/reviews.css";
+@import "../blocks/gallery/gallery.css";
+@import "../blocks/contacts/contacts.css";
+@import "../blocks/footer/footer.css";
+
+@import "../blocks/html/html.css";
+@import "../blocks/body/body.css";
+@import "../blocks/elements/elements.css";
+@import "../blocks/span/span.css";
+
+@import "../variables/variables.css";
+@import "../vendor/reset.css";
+@import "../vendor/fonts.css";

@@ -1,0 +1,6 @@
+/* Переменные */
+:root{
+    --black-121212: #121212;
+    --white: #ffffff;
+    --header-text: var(--black-121212);
+}

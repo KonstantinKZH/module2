@@ -1,0 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
+.body_fixed{
+    overflow: hidden;
+}
